@@ -1,1 +1,1 @@
-# Mortgage-Caluculator
+# Mortgage-Calculator
